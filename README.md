@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1b3abdf8-614b-49a7-8264-8e17f5e46273)# Real-State-Price-Prediction
 Project: Bangalore House Price Prediction
 
 1. Developed a machine learning model to predict house prices in Bangalore using a dataset from Kaggle.
